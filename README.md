@@ -1,2 +1,2 @@
-# Coffee_Machie
-This is a coffee machine using python  using OOPS.
+COFFEE MACHINE
+This project is an object-oriented Python program simulating a coffee vending machine. The machine manages initial resource inventories and deducts ingredients for each order placed. It handles transactions using four currency denominations, processes payments, and precisely calculates change if excess money is inserted. If the payment is insufficient, the machine returns the full amount to the user. Created as a practical exercise while learning Python OOP, this project showcases fundamental programming concepts like encapsulation and class-based structure.
